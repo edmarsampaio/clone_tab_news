@@ -1,0 +1,25 @@
+{
+  "name": "clone_tab_news",
+  "version": "1.0.0",
+  "description": "Projeto para aprender novas técnicas desenvolvimento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmarsampaio/clone_tab_news.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edmarsampaio/clone_tab_news/issues"
+  },
+  "homepage": "https://github.com/edmarsampaio/clone_tab_news#readme",
+  "dependencies": {
+    "next": "^15.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
